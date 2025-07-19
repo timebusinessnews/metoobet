@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <urlset
+          xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+     <url>
+                 <loc>news.html</loc>
+                 <lastmod>2025-07-19T07:28:07+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>news/미투벳이란-무엇인가.html</loc>
+                 <lastmod>2025-07-19T07:28:07+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>index.html</loc>
+                 <lastmod>2025-07-19T07:28:07+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>한국에서의-온라인-?-팅-규?-?.html</loc>
+                 <lastmod>2025-07-19T07:28:07+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>privacy-policy.html</loc>
+                 <lastmod>2025-07-19T07:28:07+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>sitemap.html</loc>
+                 <lastmod>2025-07-19T07:28:07+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>sitemap.xml</loc>
+                 <lastmod>2025-07-19T07:28:07+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>about-us.html</loc>
+                 <lastmod>2025-07-19T07:28:07+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>feed.xml</loc>
+                 <lastmod>2025-07-19T07:28:07+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url></urlset>
